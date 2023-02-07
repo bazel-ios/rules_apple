@@ -185,4 +185,5 @@ bundling_support = struct(
     ensure_path_format = _ensure_path_format,
     ensure_single_xcassets_type = _ensure_single_xcassets_type,
     executable_name = _executable_name,
+    rule_api_version = 1.0
 )
